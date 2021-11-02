@@ -20,3 +20,5 @@ __hours-per-week__: continuous.
 __native-country__: United-States, Cambodia, England, Puerto-Rico, Canada, Germany, Outlying-US(Guam-USVI-etc), India, Japan, Greece, South, China, Cuba, Iran, Honduras, Philippines, Italy, Poland, Jamaica, Vietnam, Mexico, Portugal, Ireland, France, Dominican-Republic, Laos, Ecuador, Taiwan, Haiti, Columbia, Hungary, Guatemala, Nicaragua, Scotland, Thailand, Yugoslavia, El-Salvador, Trinadad&Tobago, Peru, Hong, Holand-Netherlands.   
 __income__: >50K, <=50K.
 
+### Introduction
+This data was extracted from the [Census bureau database](https://archive.ics.uci.edu/ml/datasets/census+income) by Ronny Kohavi and Barry Becker. The prediction task is to determine whether a person makes over $50K a year or not. There are 48842 instances and 14 attributes in the dataset. The data contains a good blend of categorical, numerical and missing values.
