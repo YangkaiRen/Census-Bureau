@@ -23,6 +23,11 @@ __income__: >50K, <=50K.
 ### Introduction
 This data was extracted from the [Census bureau database](https://archive.ics.uci.edu/ml/datasets/census+income) by Ronny Kohavi and Barry Becker. The prediction task is to determine whether a person makes over $50K a year or not. There are 48842 instances and 14 attributes in the dataset. The data contains a good blend of categorical, numerical and missing values.
 
+
+### Requirements
+Python 3.7 or later with all requirements.txt dependencies installed
+
+### Organize directory
 ```python
 ---EDA
     |---EDA.ipynd
