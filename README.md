@@ -30,15 +30,16 @@ Python 3.7 or later with all requirements.txt dependencies installed
 ### Organize directory
 ```python
 ---EDA
-    |---EDA.ipynd
+    |---EDA.ipynb
 ---code
-    |--- main.ipynd
+    |--- main.ipynb
 ---data
     |--- adult.data
     |--- adult.test
     |--- adult.names
 ---feature
-    |--- feature.ipynd
+    |--- feature.ipynb
 ---model
-    |--- model.py
+    |--- main.ipynb
+    |--- requirements.txt
 ```
